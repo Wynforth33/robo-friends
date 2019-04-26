@@ -30,5 +30,6 @@
   },
   "devDependencies": {
     "tachyons": "^4.10.0"
-  }
+  },
+  "homepage": "https://wynforth33.github.io/robo-friends"
 }
